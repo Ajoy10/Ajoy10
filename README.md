@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajoy10" alt="ajoy10" /></a> </p>
 
-- 🔭 I’m currently working on [a personal blog](https://github.com/Ajoy10/blog)
 
 - 🌱 I’m currently learning **Master Of Computer Application**
 
